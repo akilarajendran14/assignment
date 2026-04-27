@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 I am passionate and interested about learning github.
+=======
+I am passionate about learning mvn.
+>>>>>>> features/projects
